@@ -1,0 +1,25 @@
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.exe.config
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\Interop.WMPLib.dll
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.csproj.ResolveComReference.cache
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.exe.manifest
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.application
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.exe
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.pdb
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.csprojResolveAssemblyReference.cache
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.Form1.resources
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.Properties.Resources.resources
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.csproj.GenerateResource.Cache
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.exe.manifest
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.application
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.exe
+D:\Users\Maple\Documents\Visual Studio 2015\Projects\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.pdb
+D:\Users\Maple\Desktop\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.exe.config
+D:\Users\Maple\Desktop\rrcd2anki\rrcd2anki\obj\Release\Interop.WMPLib.dll
+D:\Users\Maple\Desktop\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.csproj.ResolveComReference.cache
+D:\Users\Maple\Desktop\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.exe
+D:\Users\Maple\Desktop\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.pdb
+C:\Users\Maple\Source\Repos\rrcd2anki\rrcd2anki\bin\Release\rrcd2anki.exe.config
+C:\Users\Maple\Source\Repos\rrcd2anki\rrcd2anki\obj\Release\Interop.WMPLib.dll
+C:\Users\Maple\Source\Repos\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.csproj.ResolveComReference.cache
+C:\Users\Maple\Source\Repos\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.exe
+C:\Users\Maple\Source\Repos\rrcd2anki\rrcd2anki\obj\Release\rrcd2anki.pdb
